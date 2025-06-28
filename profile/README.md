@@ -18,4 +18,5 @@ As aplicações da plataforma está dividida em quatro repositórios, como:
 - [Tesouro direto](https://github.com/time-4ufms/tesouro-direto)
 
 
-## Participantes 🙋‍♀️🙋‍♂️
+## WEB 🙋‍♀️🙋‍♂️
+https://time4pantanaldev.netlify.app/
