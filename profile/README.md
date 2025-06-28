@@ -14,6 +14,8 @@ As aplicações da plataforma está dividida em quatro repositórios, como:
 
 - [Dados](https://github.com/time-4ufms/data)
 - [Front](https://github.com/time-4ufms/front)
+- [Estan](https://github.com/time-4ufms/ESTBAN)
+- [Tesouro direto](https://github.com/time-4ufms/tesouro-direto)
 
 
 ## Participantes 🙋‍♀️🙋‍♂️
