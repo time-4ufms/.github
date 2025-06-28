@@ -13,6 +13,7 @@ Nossa documentação está disponível em:
 As aplicações da plataforma está dividida em quatro repositórios, como:
 
 - [Dados](https://github.com/time-4ufms/data)
+- [Front](https://github.com/time-4ufms/front)
 
 
 ## Participantes 🙋‍♀️🙋‍♂️
